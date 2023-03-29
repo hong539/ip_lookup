@@ -12,6 +12,7 @@ except socket.gaierror:
 ipwhois = IPWhois(ip)
 results = ipwhois.lookup_rdap()
 
+print("All results:", results)
 # print("Country: ", results['asn_country_code'])
 # print("City: ", results['city'])
 # print("Organization: ", results['asn_description'])
