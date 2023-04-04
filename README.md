@@ -6,7 +6,8 @@ python version >= 3.8.15
 pip install requests
 
 ```shell
-python src/main.py
+pipenv shell
+python src/*.py
 ```
 
 ## Reminder!!!
