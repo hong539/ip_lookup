@@ -4,6 +4,7 @@ For ip_lookup with some Public or Private API
 ## How to use?
 python version >= 3.8.15
 pip install requests
+pip install ipwhois
 
 ```shell
 pipenv shell
