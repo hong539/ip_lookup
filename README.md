@@ -2,8 +2,10 @@
 For ip_lookup with some Public or Private API 
 
 ## How to use?
-python version >= 3.8.15
 
+* [Setting up your python-dev-environment](https://github.com/hong539/setup_dev_environment/tree/main/programing_languages/python)
+
+python version >= 3.8.15
 
 ```shell
 #simple install packages
