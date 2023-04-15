@@ -13,6 +13,7 @@ pip install requests
 pip install ipwhois
 pip install hyper
 pip install httpx
+pip install httpx[http2]
 
 python src/*.py
 
@@ -22,6 +23,7 @@ pipenv install requests
 pipenv install ipwhois
 pipenv install hyper
 pipenv install httpx
+pipenv install httpx[http2]
 
 python src/*.py
 ```
