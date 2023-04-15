@@ -3,11 +3,22 @@ For ip_lookup with some Public or Private API
 
 ## How to use?
 python version >= 3.8.15
-pip install requests
-pip install ipwhois
+
 
 ```shell
+#simple install packages
+pip install requests
+pip install ipwhois
+pip install hyper
+
+python src/*.py
+
+#if using python virtual environments
 pipenv shell
+pipenv install requests
+pipenv install ipwhois
+pipenv install hyper
+
 python src/*.py
 ```
 
