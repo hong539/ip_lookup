@@ -30,6 +30,7 @@ python src/*.py
 
 ## check protocol
 
+* [http2.pro/api/v1](https://http2.pro/api/v1)
 * [How to check http protocol version in chrome?](https://www.sudshekhar.com/blog/http-protocol-check-in-chrome)
 
 ```shell
