@@ -13,6 +13,8 @@ python src/*.py
 
 ## check protocol
 
+* [How to check http protocol version in chrome?](https://www.sudshekhar.com/blog/http-protocol-check-in-chrome)
+
 ```shell
 #請問Chrome的開發者工具（DevTools）/Network介面顯示的protocol
 #出現h3或h2表示哪些資訊?
