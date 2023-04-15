@@ -11,6 +11,17 @@ pipenv shell
 python src/*.py
 ```
 
+## check protocol
+
+```shell
+#請問Chrome的開發者工具（DevTools）/Network介面顯示的protocol
+#出現h3或h2表示哪些資訊?
+
+#在 Chrome 的開發者工具（DevTools）中的 Network 頁面，如果出現 h2 或 h3，表示該請求使用的是 HTTP/2 或 HTTP/3 協議，而不是 HTTP/1.1 協議。HTTP/2 和 HTTP/3 都是新一代的網路協議，相較於 HTTP/1.1 具有更好的效能和安全性。其中，HTTP/2 支援流、多路徑、優先級、壓縮等功能，而 HTTP/3 則是基於 QUIC 協議，使用 UDP 傳輸，並且使用 TLS1.3 加密。
+```
+
+
+
 ## Reminder!!!
 Create codes with ChatGPT
 
