@@ -12,6 +12,7 @@ python version >= 3.8.15
 pip install requests
 pip install ipwhois
 pip install hyper
+pip install httpx
 
 python src/*.py
 
@@ -20,6 +21,7 @@ pipenv shell
 pipenv install requests
 pipenv install ipwhois
 pipenv install hyper
+pipenv install httpx
 
 python src/*.py
 ```

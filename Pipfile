@@ -7,6 +7,7 @@ name = "pypi"
 requests = "*"
 ipwhois = "*"
 hyper = "*"
+httpx = "*"
 
 [dev-packages]
 
