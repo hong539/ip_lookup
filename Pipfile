@@ -8,6 +8,7 @@ requests = "*"
 ipwhois = "*"
 hyper = "*"
 httpx = {extras = ["http2"], version = "*"}
+flask = "*"
 
 [dev-packages]
 
